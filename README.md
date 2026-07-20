@@ -1,6 +1,3 @@
-
-markdown
-
 # Vehicle Search System
 
 A simple semantic search demo built with [Chroma](https://www.trychroma.com/), a vector database. It lets you ask natural-language questions and returns the most relevant vehicle descriptions using embedding-based similarity search — not keyword matching.
@@ -74,3 +71,5 @@ Type `exit` at any prompt to quit.
 ## License
 
 Free to use and modify for personal or educational purposes.
+
+For Ketha
